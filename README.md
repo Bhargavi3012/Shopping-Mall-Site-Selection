@@ -1,2 +1,2 @@
 # Shopping-Mall-Site-Selection
-To predict the most feasible location in Pune city to open a shopping mall.
+To Predict which site in pune would be feasable for a businessmen to open up a shopping mall in Pune city.
